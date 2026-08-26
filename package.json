@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pinia": "^4.0.3",
+    "swiper": "^14.1.0"
+  }
+}
