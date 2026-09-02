@@ -15,15 +15,15 @@ export default {
             banners: [
                 {
                     id: 1,
-                    image: '/images/banners/banner1.png'
+                    image: '/VV/images/banners/banner1.png'
                 },
                 {
                     id: 2,
-                    image: '/images/banners/banner2.png'
+                    image: '/VV/images/banners/banner2.png'
                 },
                 {
                     id: 3,
-                    image: '/images/banners/banner3.png'
+                    image: '/VV/images/banners/banner3.png'
                 }
             ],
             modules:[
