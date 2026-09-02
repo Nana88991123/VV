@@ -5,7 +5,7 @@
         "category": "3C",
         "price": 590,
         "description": "適合辦公與日常使用的輕量無線滑鼠。",
-        "image":"/images/product/01_無線滑鼠.jpg"
+        "image":"/VV/images/product/01_無線滑鼠.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "category": "3C",
         "price": 1690,
         "description": "具備清楚段落感與快捷鍵配置的機械鍵盤。",
-        "image":"/images/product/02_機械鍵盤.jpg"
+        "image":"/VV/images/product/02_機械鍵盤.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "category": "影音",
         "price": 1290,
         "description": "支援藍牙連線，適合通勤與影音播放。",
-        "image":"/images/product/03_藍牙耳機.jpg"
+        "image":"/VV/images/product/03_藍牙耳機.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "category": "周邊",
         "price": 890,
         "description": "提供多組 USB 與影像輸出介面，方便筆電擴充。",
-        "image":"/images/product/04_USB-C集線器.png"
+        "image":"/VV/images/product/04_USB-C集線器.png"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "category": "顯示器",
         "price": 5690,
         "description": "適合文書、多工與程式開發使用的 27 吋顯示器。",
-        "image":"/images/product/05_27吋螢幕.png"
+        "image":"/VV/images/product/05_27吋螢幕.png"
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "category": "周邊",
         "price": 750,
         "description": "可調整觀看高度，改善桌面空間與使用姿勢。",
-        "image":"/images/product/06_筆電支架.png"
+        "image":"/VV/images/product/06_筆電支架.png"
     }
 ]
