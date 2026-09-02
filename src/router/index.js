@@ -1,6 +1,6 @@
 import {
     createRouter,
-    createWebHistory
+    reateWebHashHistory()
 } from "vue-router"
 
 import HomeView from "../views/HomeView.vue"
