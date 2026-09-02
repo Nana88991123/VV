@@ -37,7 +37,7 @@ export const useProductStore =
                 this.errorMessages = ""
 
                 try {
-                    const response = await fetch("/data/products.json")
+                    const response = await fetch('/VV/data/products.json')
                     console.log(response)
                     if (!response.ok) {
                         throw new Error(`HTTP ${response.status}`)
