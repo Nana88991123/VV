@@ -5,7 +5,7 @@ import {
 
 import HomeView from "../views/HomeView.vue"
 import ProductsView from "../views/ProductsView.vue"
-import AboutView from "../Views/AboutView.vue"
+import AboutView from "../views/AboutView.vue"
 import ProductDerailView from "../views/ProductDerailView.vue"
 import CategoryProductView from "../views/CategoryProductView.vue"
 import CartView from "../views/CartView.vue"
