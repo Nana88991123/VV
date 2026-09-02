@@ -10,7 +10,7 @@ export default{
     },
     methods:{
         async fetchSales(){
-            const response = await fetch('/data/sales.json')
+            const response = await fetch('/VV/data/sales.json')
 
             this.sales=await response.json()
             this.createChart(this.sales)
